@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236769585393",
+    "project_id": "micro-rede-social-28ea3",
+    "storage_bucket": "micro-rede-social-28ea3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236769585393:android:0b40a73483c13b49c3e150",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.dsw2.feito_por_mim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaVDplZoIAvdoIjFf9K0b5EexiumH5fs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

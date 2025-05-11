@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center_horizontal"
+    android:background="#FFF5FAFF">
+
+    <ImageView
+        android:id="@+id/imagePost"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:scaleType="centerCrop"
+        android:contentDescription="Imagem selecionada"
+        android:background="#E0E0E0"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/buttonChangeImagePost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Selecionar Imagem"
+        android:textColor="@color/white"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="@color/purple_500"/>
+
+    <EditText
+        android:id="@+id/editTextPost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Digite a descrição"
+        android:textColorHint="@color/black"
+        android:textColor="@color/black"
+        android:background="@android:drawable/edit_text"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/buttonSavePost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Publicar"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/purple_500"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/backButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Voltar"
+        android:textColor="@color/white"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@color/red"/>
+
+</LinearLayout>

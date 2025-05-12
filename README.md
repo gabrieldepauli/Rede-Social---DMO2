@@ -2,10 +2,10 @@
 
 ## Descrição do Projeto
 
-### Autores 👤
+### Autor 👤
 
 O projeto da Rede Social foi criado pelo aluno do curso de Análise e Desenvolvimento de Sistemas no IFSP - Campus Araraquara abaixo:
-- **Gabriel de Pauli Santos.**
+- **Gabriel de Pauli Santos**
 
 ## Sobre o projeto ℹ
 
